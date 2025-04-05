@@ -20,9 +20,9 @@ const Testimonial = () => {
               data-aos-offset="300"
               data-aos-delay="1800"
             >
-              Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
+              {/* Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
               doloribus inventore harum cumque blanditiis minima maiores ipsa
-              iure Hic, nam!
+              iure Hic, nam! */}
             </p>
           </div>
           {/* slider  */}

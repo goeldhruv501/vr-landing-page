@@ -15,8 +15,8 @@ const Explore = () => {
             data-aos="fade-right"
             data-aos-offset="1100"
           >
-            Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
-            doloribus inventore harum cumque blanditiis minima.
+            {/* Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
+            doloribus inventore harum cumque blanditiis minima. */}
           </p>
           {/* form  */}
           <form

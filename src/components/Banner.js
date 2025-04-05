@@ -13,15 +13,15 @@ const Banner = () => {
               data-aos="fade-down"
               data-aos-delay="500"
             >
-              Let's Explore <br /> Three-Dimensional Visually.
+               Let's explore <br /> Gamified Version of Academic Problems.
             </h1>
             <p
               className="font-secondary mb-12 max-w-[440px] mx-auto lg:mx-0"
               data-aos="fade-down"
               data-aos-delay="600"
             >
-              Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
-              doloribus inventore harum cumque blanditiis minima.
+              {/* Lorem ipsum dolar sit amet consectetur adipisicing elit. Iste
+              doloribus inventore harum cumque blanditiis minima. */}
             </p>
             {/* btns */}
             <div

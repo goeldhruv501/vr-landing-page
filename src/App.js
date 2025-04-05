@@ -3,9 +3,9 @@ import Banner from "./components/Banner";
 import Header from "./components/Header";
 import NavMobile from "./components/NavMobile";
 import Experience from "./components/Experience";
-import Video from "./components/Video";
-import Headsets from "./components/Headsets";
-import Testimonial from "./components/Testimonial";
+// import Video from "./components/Video";
+// import Headsets from "./components/Headsets";
+// import Testimonial from "./components/Testimonial";
 import Explore from "./components/Explore";
 
 // import animate on scroll (aos)
@@ -36,9 +36,9 @@ const App = () => {
         <NavMobile setNavMobile={setNavMobile} />
       </div>
       <Experience />
-      <Video />
+      {/* <Video />
       <Headsets />
-      <Testimonial />
+      <Testimonial /> */}
       <Explore />
     </div>
   );

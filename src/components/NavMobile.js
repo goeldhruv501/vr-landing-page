@@ -9,13 +9,13 @@ const NavMobile = ({ setNavMobile }) => {
       />
       <ul className="flex flex-col items-center justify-center space-y-8 h-full font-secondary">
         <li className="text-lg">
-          <a href="#">Home</a>
+          {/* <a href="#">Home</a> */}
         </li>
         <li className="text-lg">
-          <a href="#">Company</a>
+          {/* <a href="#">Company</a> */}
         </li>
         <li className="text-lg">
-          <a href="#">Features</a>
+          {/* <a href="#">Features</a> */}
         </li>
         <li className="btn">
           <a href="#">Sign Up</a>
